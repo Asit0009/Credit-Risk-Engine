@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+data/credit_risk_data.csv
+data/*.db
+*.db
+.DS_Store
+.vscode/
